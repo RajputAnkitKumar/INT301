@@ -1,2 +1,2 @@
-# INT301
+# INT301 Project
 Quiz 
